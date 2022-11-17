@@ -1,0 +1,57 @@
+.type{      /*  le type  */
+    color: #008518;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 500px;
+    
+    }
+    
+    .titre{      /*  le titre  */
+    color: #3551EC;
+    font-size: 50px;
+    margin-left: 35px;
+    /* margin-left: 600px; */
+    
+    }
+    .desc{   /*  la description  */
+        color: #000000;
+        /* margin-left: 600px; */
+       
+    } */
+     .date{   /*  la date  */
+         color: #596CE5;
+        /* white-space: nowrap;
+        margin-left: 600px; */
+      
+    }
+    /* La grande div */
+    .grande{
+    /* display: inline-block; */
+    /* padding: 20px; */
+    margin-left: 600px;
+    margin-top: 4000px;
+    height: 450px;
+    width: 250px;
+    padding-top: 150px;
+    }
+    
+    /* l'image et sa box */
+    
+     .imag{          /* la box*/
+        width: 310px;
+        height: 310px;
+        border: 2px solid #008518;
+        border-radius: 25px;
+        /* margin: 30px; */
+        margin-left: 250px;
+        margin-top: 50px;
+        padding: 6px;
+    }
+    
+     .imag img{          /*  l'image */
+      
+        width: 290px;
+        height: 290px;
+        /* padding: 3px; */
+        border-radius: 25px;
+    }
